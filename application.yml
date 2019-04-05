@@ -1,0 +1,30 @@
+cf:
+  butlers:
+    mvp: cf-butler-nice-gnu.cfapps.cf.cirrus.labs.mvptime.org
+  sslValidationSkipped: true
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: info,health,metrics,scheduledtasks,loggers,prometheus
+  endpoint:
+    health:
+      show-details: always
+    metrics:
+      enabled: true
+    prometheus:
+      enabled: true
+
+spring:
+  cloud:
+    config:
+      enabled: false
+
+---
+spring:
+  profiles: cloud
+
+  cloud:
+    config:
+      enabled: true
