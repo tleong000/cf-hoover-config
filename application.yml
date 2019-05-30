@@ -1,6 +1,6 @@
 cf:
   butlers:
-    mvp: cf-butler-nice-gnu.cfapps.cf.cirrus.labs.mvptime.org
+    mvp: cf-butler-bold-civet.cfapps.cf.cirrus.labs.mvptime.org
   sslValidationSkipped: true
 
 management:
