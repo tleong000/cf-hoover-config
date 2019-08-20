@@ -1,7 +1,7 @@
 cf:
   butlers:
     mvp: cf-butler-timely-cheetah.apps.pcfone.io
-    ironleg: cf-butler-appreciative-waterbuck.apps.demo.ironleg.me
+    ironleg: cf-butler.apps.demo.ironleg.me
   sslValidationSkipped: true
 
 management:
