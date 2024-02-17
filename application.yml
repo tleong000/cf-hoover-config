@@ -1,7 +1,7 @@
 cf:
   butlers:
     npike: cf-butler-intelligent-kob-ip.apps.keep-716898.cf-app.com
-    dhaka:  cf-butler.apps.dhaka.cf-app.com
+    dhaka: cf-butler.apps.dhaka.cf-app.com
   sslValidationSkipped: true
 
 management:
