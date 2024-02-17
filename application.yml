@@ -1,7 +1,7 @@
 cf:
   butlers:
-    npike-foundation: cf-butler.apps.sangabriel.cf-app.com
-    #ironleg: cf-butler.apps.demo.ironleg.me
+    npike: cf-butler-intelligent-kob-ip.apps.keep-716898.cf-app.com
+    dhaka:  cf-butler.apps.dhaka.cf-app.com
   sslValidationSkipped: true
 
 management:
